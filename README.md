@@ -1,5 +1,5 @@
 # KB-BINDER
-The implementation for paper [Few-shot In-context Learning for Knowledge Base Question Answering](http://arxiv.org/abs/2305.01750)
+The implementation for ACL2023 paper [Few-shot In-context Learning for Knowledge Base Question Answering](http://arxiv.org/abs/2305.01750)
 <img width="1237" alt="KBQA-BINDER" src="https://github.com/ltl3A87/KB-BINDER/assets/55973524/d9ceefbe-392e-4749-bf1f-58a93e97b254">
 
 ## Set up
